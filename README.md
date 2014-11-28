@@ -1,6 +1,6 @@
 #SimpleCalculator Test
 
-This is my version of the SimpleCalsulator Test.
+This is my version of the SimpleCalculator Test.
 
 #DEVELOPER TEST INSTRUCTIONS
 Instructions
