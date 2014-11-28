@@ -1,7 +1,9 @@
-SimpleCalculator
+#SimpleCalculator
 ================
+This is my version of the SimpleCalsulator Test.
 
-#DEVELOPER TEST INSTRUCTIONS
+
+##DEVELOPER TEST INSTRUCTIONS
 Instructions
 Create an application for review, which matches the requirements below.  There is no required time frame for this exercise.
 Requirements
